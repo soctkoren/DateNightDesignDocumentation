@@ -69,6 +69,10 @@ Might as well get a good use out of my AWS certifcation hehe
 
 * AWS
 
+## Git Workflow:
+
+* push to master
+
 # MVP
 
 my MVP is to create a working iOS app with a working backend.
