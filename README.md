@@ -1,6 +1,6 @@
 # Date Night Design Documentation
 
-A on-going list of features and design decissions.
+A on-going list of features and design decisions.
 
 # Features
 
