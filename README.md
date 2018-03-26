@@ -33,6 +33,55 @@ A on-going list of features and design decissions.
     * Review mode should allow users to mark which part of the Date Night they actually went to and be able to review the entire Date Night or each part in particular
     * Instagram ingration to create stories of your date night at the end of the Date Night
     * Not MVP but should be able to book restraunts and lifts directly from the app
-    * Iternatry mode for active date only
+    * Iternary mode for active date only
 
      <img src='./assets/itinerary.jpg' width="300px">
+
+# Tech Design Documentation
+
+## Frontend - Web: 
+
+The Front end web page will serve as a landing page and also have all of the features except iternary. Web would be the ideal place for users
+to do their discovery and also planning
+
+I had thoughts on using relay here with graphql but didn't feel like it.
+
+* React / Redux
+* Standard Web tech ~_~
+
+## Backend API:
+
+I had thoughts about using graphql and serverless here, but didn't feel like it.
+Plus with Python 3.6 i'm curious about its support for types
+
+* Django - Python 
+
+## Mobile Client:
+
+I want to use native languages for both iOS and Android.
+
+* iOS - Swift
+* Android - Kotlin
+
+## DevOps:
+
+Might as well get a good use out of my AWS certifcation hehe
+
+* AWS
+
+# MVP
+
+my MVP is to create a working iOS app with a working backend.
+    * A user should be able to discover a new Date
+    * A user should be able to create a new Date
+    * A user should be able to go on a Date and mark it as complete
+    * A user should be able to review their Date Night history
+
+# Milestones
+
+- [ ] Backend MVP
+- [ ] iOS Client MVP
+- [ ] Web Client MVP
+- [ ] MVP Alpha Lanuch
+- [ ] Android Client MVP
+- [ ] Get bought out!!!$$$$$!!$$$
