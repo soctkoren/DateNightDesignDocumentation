@@ -59,6 +59,9 @@ Plus with Python 3.6 i'm curious about its support for types
 * Django - Python
 * DB - PostgreSQL
 
+Inital First Run Of Scheam
+<img src='./assets/schema.png'>
+
 ## Mobile Client:
 
 I want to use native languages for both iOS and Android.
